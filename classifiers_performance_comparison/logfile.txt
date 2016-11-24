@@ -1,0 +1,66 @@
+Logistic Regression :
+---------------------
+Accuracy =  91.67 
+Accuracy =  88.57 
+Accuracy =  91.43 
+Accuracy =  77.14 
+Accuracy =  82.86 
+Accuracy =  91.43 
+Accuracy =  91.43 
+Accuracy =  94.29 
+Accuracy =  91.43 
+Accuracy =  97.14 
+
+k-NN :
+------
+Accuracy =  86.11 
+Accuracy =  91.43 
+Accuracy =  94.29 
+Accuracy =  82.86 
+Accuracy =  82.86 
+Accuracy =  80.00 
+Accuracy =  85.71 
+Accuracy =  91.43 
+Accuracy =  94.29 
+Accuracy =  94.29 
+
+Bagging:
+--------
+Accuracy =  86.11 
+Accuracy =  97.14 
+Accuracy =  97.14 
+Accuracy =  91.43 
+Accuracy =  88.57 
+Accuracy =  88.57 
+Accuracy =  91.43 
+Accuracy =  97.14 
+Accuracy =  94.29 
+Accuracy =  82.86
+
+Random Forest:
+--------------
+Accuracy =  91.67 
+Accuracy =  97.14 
+Accuracy =  94.29 
+Accuracy =  91.43 
+Accuracy =  94.29 
+Accuracy =  94.29 
+Accuracy =  91.43 
+Accuracy =  94.29 
+Accuracy =  91.43 
+Accuracy =  88.57 
+
+Boosting:
+---------
+Accuracy =  86.11 
+Accuracy =  94.29 
+Accuracy =  100.00 
+Accuracy =  88.57 
+Accuracy =  88.57 
+Accuracy =  91.43 
+Accuracy =  91.43 
+Accuracy =  97.14 
+Accuracy =  97.14 
+Accuracy =  88.57
+Accuracy =  91.43
+

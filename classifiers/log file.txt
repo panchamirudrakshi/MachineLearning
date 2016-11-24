@@ -1,0 +1,634 @@
+expreriment 1 : 
+Accuracy in Decision Tree 84.5070422535211
+Accuracy in perceptron 32.3943661971831 
+Accuracy in NeuralNet  35.2112676056338 
+Accuracy in SVM 90.1408450704225 
+Accuracy in Naive Bayes 91.5492957746479 
+
+
+expreriment 2 : 
+Accuracy in Decision Tree 91.5492957746479
+Accuracy in perceptron 39.4366197183099 
+Accuracy in NeuralNet  39.4366197183099 
+Accuracy in SVM 85.9154929577465 
+Accuracy in Naive Bayes 94.3661971830986 
+
+
+expreriment 3 : 
+Accuracy in Decision Tree 85.9154929577465
+Accuracy in perceptron 39.4366197183099 
+Accuracy in NeuralNet  40.8450704225352 
+Accuracy in SVM 83.0985915492958 
+Accuracy in Naive Bayes 90.1408450704225 
+
+
+expreriment 4 : 
+Accuracy in Decision Tree 92.9577464788732
+Accuracy in perceptron 35.2112676056338 
+Accuracy in NeuralNet  35.2112676056338 
+Accuracy in SVM 85.9154929577465 
+Accuracy in Naive Bayes 97.1830985915493 
+
+
+expreriment 5 : 
+Accuracy in Decision Tree 92.9577464788732
+Accuracy in perceptron 29.5774647887324 
+Accuracy in NeuralNet  30.9859154929577 
+Accuracy in SVM 90.1408450704225 
+Accuracy in Naive Bayes 92.9577464788732 
+
+
+Corelation between variables11is1
+Corelation between variables12is0.302033923156991
+Corelation between variables13is-0.00652885191834029
+Corelation between variables14is0.156152396970123
+Corelation between variables15is0.127605707188472
+Corelation between variables16is0.221866915549364
+Corelation between variables17is0.0270789041941195
+Corelation between variables18is0.189241868209538
+Corelation between variables19is-0.0518827205602217
+Corelation between variables110is0.0341378513800015
+Corelation between variables111is0.0722157228613342
+Corelation between variables112is0.102558054922243
+Corelation between variables113is0.199229645607963
+Corelation between variables114is0.113622230637621
+Corelation between variables115is0.100474411876395
+Corelation between variables116is0.0577826784567251
+Corelation between variables117is0.0760185525759141
+Corelation between variables118is0.200237436342294
+Corelation between variables119is0.0192299699121818
+Corelation between variables120is0.173828263857374
+Corelation between variables121is-0.153902036684111
+Corelation between variables122is0.0117724129930248
+Corelation between variables123is-0.0825859761162951
+Corelation between variables124is0.0167172919655202
+Corelation between variables125is0.149789170515824
+Corelation between variables126is-0.203100203067392
+Corelation between variables127is-0.0107250203598576
+Corelation between variables128is0.133632139781786
+Corelation between variables129is-0.121414684884564
+Corelation between variables130is0.167031455252297
+Corelation between variables131is-0.100914082249215
+Corelation between variables132is0.16296177560502
+Corelation between variables133is0.01078828643842
+Corelation between variables22is1
+Corelation between variables23is0.143364803668953
+Corelation between variables24is0.476586950262325
+Corelation between variables25is0.0257675142082996
+Corelation between variables26is0.440254374569444
+Corelation between variables27is0.00871713514268089
+Corelation between variables28is0.47161375578867
+Corelation between variables29is0.0479162654011715
+Corelation between variables210is0.325015503692055
+Corelation between variables211is0.169981090587613
+Corelation between variables212is0.217596647384862
+Corelation between variables213is0.164550256410092
+Corelation between variables214is0.198306330805871
+Corelation between variables215is0.0943008513829032
+Corelation between variables216is0.221445776638845
+Corelation between variables217is0.172001630932583
+Corelation between variables218is0.285279867412267
+Corelation between variables219is0.150800149810253
+Corelation between variables220is0.149374317227997
+Corelation between variables221is0.138065075795883
+Corelation between variables222is0.250831929465968
+Corelation between variables223is-0.0125699139117082
+Corelation between variables224is0.304897516438178
+Corelation between variables225is-0.0732020098800325
+Corelation between variables226is0.0779108351958685
+Corelation between variables227is0.123344775278278
+Corelation between variables228is0.344458612649418
+Corelation between variables229is0.0578898332059626
+Corelation between variables230is0.246652771881117
+Corelation between variables231is-0.00933243396499436
+Corelation between variables232is0.263343404421965
+Corelation between variables233is0.000584065992711552
+Corelation between variables33is1
+Corelation between variables34is0.0011518500287603
+Corelation between variables35is-0.190307607463926
+Corelation between variables36is-0.0540295275607776
+Corelation between variables37is0.2550029615212
+Corelation between variables38is-0.302317088470494
+Corelation between variables39is0.207697324440202
+Corelation between variables310is-0.190089786295376
+Corelation between variables311is0.31587727809369
+Corelation between variables312is-0.149216285340487
+Corelation between variables313is0.236604407193707
+Corelation between variables314is-0.253149570301601
+Corelation between variables315is0.185872304637553
+Corelation between variables316is-0.251142959205123
+Corelation between variables317is-0.147451345373003
+Corelation between variables318is-0.332213070220789
+Corelation between variables319is0.167244093863943
+Corelation between variables320is-0.281083699019983
+Corelation between variables321is-0.0354006940499746
+Corelation between variables322is-0.143718981148644
+Corelation between variables323is0.164196017140715
+Corelation between variables324is-0.104631931131395
+Corelation between variables325is-0.236987104819463
+Corelation between variables326is-0.0469095425901501
+Corelation between variables327is0.000743042189838413
+Corelation between variables328is-0.0410904076805018
+Corelation between variables329is0.342300730181843
+Corelation between variables330is-0.172275722466037
+Corelation between variables331is-0.122788150273144
+Corelation between variables332is-0.153964393604261
+Corelation between variables333is0.0346084255649588
+Corelation between variables44is1
+Corelation between variables45is0.0383231216026804
+Corelation between variables46is0.597075075894285
+Corelation between variables47is-0.0297937594041973
+Corelation between variables48is0.450454390206837
+Corelation between variables49is-0.0342360022224301
+Corelation between variables410is0.449828914642929
+Corelation between variables411is0.0428962227882875
+Corelation between variables412is0.482117899591538
+Corelation between variables413is0.127216784812642
+Corelation between variables414is0.398877922825965
+Corelation between variables415is0.0879922965953013
+Corelation between variables416is0.277931785152091
+Corelation between variables417is0.0275881697152051
+Corelation between variables418is0.221532096994111
+Corelation between variables419is0.041959062701475
+Corelation between variables420is0.326222901046336
+Corelation between variables421is0.163662961504331
+Corelation between variables422is0.502878432849607
+Corelation between variables423is0.0982743457986947
+Corelation between variables424is0.243062889481999
+Corelation between variables425is-0.0322544561435966
+Corelation between variables426is0.140899478149335
+Corelation between variables427is0.184516593011704
+Corelation between variables428is0.257646032043229
+Corelation between variables429is0.0510677501532698
+Corelation between variables430is0.399840391230789
+Corelation between variables431is0.0256806352521242
+Corelation between variables432is0.383467074962032
+Corelation between variables433is-0.0994781850637615
+Corelation between variables55is1
+Corelation between variables56is-0.0102269186869379
+Corelation between variables57is0.27474738857931
+Corelation between variables58is-0.120711998913928
+Corelation between variables59is0.200079919238797
+Corelation between variables510is-0.291447328438575
+Corelation between variables511is0.163933239487793
+Corelation between variables512is-0.307197179497455
+Corelation between variables513is0.135205623823133
+Corelation between variables514is-0.359342075175317
+Corelation between variables515is0.157739964298464
+Corelation between variables516is-0.31670509162231
+Corelation between variables517is0.188073176874521
+Corelation between variables518is-0.208570517565827
+Corelation between variables519is-0.0612614645769893
+Corelation between variables520is-0.114966119860253
+Corelation between variables521is-0.132422340100504
+Corelation between variables522is-0.215777522494245
+Corelation between variables523is-0.286541359937953
+Corelation between variables524is-0.177575793939542
+Corelation between variables525is0.0417874314820563
+Corelation between variables526is-0.175433466603169
+Corelation between variables527is-0.0687747061692666
+Corelation between variables528is-0.0293919480381412
+Corelation between variables529is-0.158089913774735
+Corelation between variables530is-0.100239532803407
+Corelation between variables531is0.31680166891309
+Corelation between variables532is0.0168990286884667
+Corelation between variables533is0.185215446039549
+Corelation between variables66is1
+Corelation between variables67is-0.150423663977263
+Corelation between variables68is0.461888763768743
+Corelation between variables69is-0.0902683344067911
+Corelation between variables610is0.41287592003714
+Corelation between variables611is-0.0203953614657847
+Corelation between variables612is0.63106032914095
+Corelation between variables613is0.0836568246803038
+Corelation between variables614is0.615406775921486
+Corelation between variables615is-0.0214926263611663
+Corelation between variables616is0.379736630031398
+Corelation between variables617is0.115926813067948
+Corelation between variables618is0.37257174656724
+Corelation between variables619is0.158916807119056
+Corelation between variables620is0.586627438839438
+Corelation between variables621is0.190804867476192
+Corelation between variables622is0.373186230917848
+Corelation between variables623is0.112717206539855
+Corelation between variables624is0.286749232588531
+Corelation between variables625is0.0877338071448286
+Corelation between variables626is0.0975658059546074
+Corelation between variables627is0.109391236936018
+Corelation between variables628is0.300631913407517
+Corelation between variables629is-0.015157858232913
+Corelation between variables630is0.415216468736866
+Corelation between variables631is-0.00832285943785817
+Corelation between variables632is0.545880916670187
+Corelation between variables633is-0.0764602232560357
+Corelation between variables77is1
+Corelation between variables78is-0.336013341574971
+Corelation between variables79is0.373567050261436
+Corelation between variables710is-0.364002810222995
+Corelation between variables711is0.429145526205253
+Corelation between variables712is-0.355874976248084
+Corelation between variables713is0.253740116884727
+Corelation between variables714is-0.352216031140113
+Corelation between variables715is0.419672625456449
+Corelation between variables716is-0.491862923796916
+Corelation between variables717is0.0687168327037114
+Corelation between variables718is-0.400523078994022
+Corelation between variables719is0.0776237577137692
+Corelation between variables720is-0.370473058524306
+Corelation between variables721is-0.212007112897926
+Corelation between variables722is-0.270624076809716
+Corelation between variables723is0.00704506282780555
+Corelation between variables724is-0.17992761534367
+Corelation between variables725is-0.133022809059337
+Corelation between variables726is-0.254129759795402
+Corelation between variables727is0.0723731803453009
+Corelation between variables728is-0.139724841433427
+Corelation between variables729is0.0785851373427357
+Corelation between variables730is-0.166682444112668
+Corelation between variables731is0.152380598470283
+Corelation between variables732is-0.200860028176119
+Corelation between variables733is0.360609802269718
+Corelation between variables88is1
+Corelation between variables89is-0.251949534369269
+Corelation between variables810is0.670812769573731
+Corelation between variables811is-0.16770531852754
+Corelation between variables812is0.562071783015093
+Corelation between variables813is-0.0889879160188945
+Corelation between variables814is0.618461281541755
+Corelation between variables815is-0.0326888972123928
+Corelation between variables816is0.633574374091168
+Corelation between variables817is0.200786198194615
+Corelation between variables818is0.673489983885401
+Corelation between variables819is0.0673137786714142
+Corelation between variables820is0.49241139065287
+Corelation between variables821is0.237322033691724
+Corelation between variables822is0.352217858777941
+Corelation between variables823is0.161258176162562
+Corelation between variables824is0.356564064120546
+Corelation between variables825is0.107478294803133
+Corelation between variables826is0.172210455602641
+Corelation between variables827is0.146816557420506
+Corelation between variables828is0.329813482819122
+Corelation between variables829is-0.0319825557493376
+Corelation between variables830is0.316020925869569
+Corelation between variables831is-0.0674990531350245
+Corelation between variables832is0.344813638857054
+Corelation between variables833is-0.0955967509182272
+Corelation between variables99is1
+Corelation between variables910is-0.337374390565815
+Corelation between variables911is0.441505090568702
+Corelation between variables912is-0.406358395127561
+Corelation between variables913is0.32381259793281
+Corelation between variables914is-0.37490759017363
+Corelation between variables915is0.334134808958786
+Corelation between variables916is-0.3920467117483
+Corelation between variables917is0.130752154439504
+Corelation between variables918is-0.4716649733662
+Corelation between variables919is-0.00141772324537515
+Corelation between variables920is-0.404817693092738
+Corelation between variables921is-0.040414183249211
+Corelation between variables922is-0.318462870669864
+Corelation between variables923is0.101849689837674
+Corelation between variables924is-0.254784966555022
+Corelation between variables925is-0.0436799443141075
+Corelation between variables926is-0.250947405565642
+Corelation between variables927is0.0720177380917262
+Corelation between variables928is-0.123295585930657
+Corelation between variables929is-0.00857829228525606
+Corelation between variables930is-0.155661142260677
+Corelation between variables931is-0.0156396841788248
+Corelation between variables932is-0.203629014757082
+Corelation between variables933is0.0981041039181544
+Corelation between variables1010is1
+Corelation between variables1011is-0.217968180438811
+Corelation between variables1012is0.619216618677774
+Corelation between variables1013is-0.216746714051103
+Corelation between variables1014is0.664243107576384
+Corelation between variables1015is-0.0317052583190225
+Corelation between variables1016is0.748290267504407
+Corelation between variables1017is0.107084908743084
+Corelation between variables1018is0.590598321935108
+Corelation between variables1019is0.128132066695119
+Corelation between variables1020is0.51804132684547
+Corelation between variables1021is0.325267253546329
+Corelation between variables1022is0.561689426172022
+Corelation between variables1023is0.172767736043752
+Corelation between variables1024is0.365820996148644
+Corelation between variables1025is0.131848534737752
+Corelation between variables1026is0.292281452869401
+Corelation between variables1027is0.197368535236527
+Corelation between variables1028is0.396851271798268
+Corelation between variables1029is0.0745998023318975
+Corelation between variables1030is0.294645838667101
+Corelation between variables1031is0.023921675804229
+Corelation between variables1032is0.339506358949956
+Corelation between variables1033is-0.152225356956487
+Corelation between variables1111is1
+Corelation between variables1112is-0.241755032895404
+Corelation between variables1113is0.422930006104481
+Corelation between variables1114is-0.232230393859562
+Corelation between variables1115is0.356077517847124
+Corelation between variables1116is-0.34205301091174
+Corelation between variables1117is0.0777978285880887
+Corelation between variables1118is-0.374571087829118
+Corelation between variables1119is0.143439352847714
+Corelation between variables1120is-0.287650512202661
+Corelation between variables1121is-0.038892603981714
+Corelation between variables1122is-0.360762532573531
+Corelation between variables1123is0.175458828891284
+Corelation between variables1124is-0.233368835220707
+Corelation between variables1125is-0.0768276549396085
+Corelation between variables1126is-0.227890282499303
+Corelation between variables1127is0.0612916219914361
+Corelation between variables1128is-0.208293838337105
+Corelation between variables1129is0.1388416857073
+Corelation between variables1130is-0.208855266057156
+Corelation between variables1131is0.0102758039462592
+Corelation between variables1132is-0.1811660846652
+Corelation between variables1133is0.066584308424568
+Corelation between variables1212is1
+Corelation between variables1213is-0.0927546127674299
+Corelation between variables1214is0.82555836817211
+Corelation between variables1215is-0.183444851181299
+Corelation between variables1216is0.67670495673274
+Corelation between variables1217is-0.0157980302079118
+Corelation between variables1218is0.570486950249265
+Corelation between variables1219is0.220222042509318
+Corelation between variables1220is0.688183833886062
+Corelation between variables1221is0.288087571551937
+Corelation between variables1222is0.530798331130282
+Corelation between variables1223is0.16941119601333
+Corelation between variables1224is0.364645343362203
+Corelation between variables1225is0.197265594491755
+Corelation between variables1226is0.290095172806684
+Corelation between variables1227is0.14679961772805
+Corelation between variables1228is0.277995340025674
+Corelation between variables1229is0.0943997712087086
+Corelation between variables1230is0.355473091294631
+Corelation between variables1231is-0.0416291651518768
+Corelation between variables1232is0.473779589300666
+Corelation between variables1233is-0.0651310133978238
+Corelation between variables1313is1
+Corelation between variables1314is-0.164513325569092
+Corelation between variables1315is0.188398464200771
+Corelation between variables1316is-0.296784191973704
+Corelation between variables1317is0.237243279183553
+Corelation between variables1318is-0.291325190050924
+Corelation between variables1319is0.377865584092715
+Corelation between variables1320is-0.283060708117918
+Corelation between variables1321is0.199324643591011
+Corelation between variables1322is-0.315492757729001
+Corelation between variables1323is0.190689817444678
+Corelation between variables1324is-0.209359664521229
+Corelation between variables1325is0.0705632936677321
+Corelation between variables1326is-0.313596548823124
+Corelation between variables1327is0.0669645897958443
+Corelation between variables1328is-0.215050311643539
+Corelation between variables1329is0.0956773395384329
+Corelation between variables1330is-0.147948767501849
+Corelation between variables1331is-0.067789737535757
+Corelation between variables1332is-0.0960913626078532
+Corelation between variables1333is0.0964438508404324
+Corelation between variables1414is1
+Corelation between variables1415is-0.136774939246891
+Corelation between variables1416is0.699405859250211
+Corelation between variables1417is0.0570110042575212
+Corelation between variables1418is0.66987842651856
+Corelation between variables1419is0.157236530209779
+Corelation between variables1420is0.741151521759281
+Corelation between variables1421is0.257949480640547
+Corelation between variables1422is0.588450038154804
+Corelation between variables1423is0.245612930819115
+Corelation between variables1424is0.456812379055575
+Corelation between variables1425is0.228786962144707
+Corelation between variables1426is0.339516187523898
+Corelation between variables1427is0.164177144998195
+Corelation between variables1428is0.355917020527762
+Corelation between variables1429is0.0900093167414153
+Corelation between variables1430is0.445174969318295
+Corelation between variables1431is-0.013131798661697
+Corelation between variables1432is0.490878732811459
+Corelation between variables1433is-0.119929332149063
+Corelation between variables1515is1
+Corelation between variables1516is-0.196751893304967
+Corelation between variables1517is0.281292353719805
+Corelation between variables1518is-0.256949235600549
+Corelation between variables1519is0.329360833192813
+Corelation between variables1520is-0.273528711146285
+Corelation between variables1521is0.192689140617838
+Corelation between variables1522is-0.204735310036153
+Corelation between variables1523is0.166323986513358
+Corelation between variables1524is-0.265365942401023
+Corelation between variables1525is0.179891513527088
+Corelation between variables1526is-0.313300306438724
+Corelation between variables1527is0.219420581557948
+Corelation between variables1528is-0.159639275980549
+Corelation between variables1529is0.146051500067184
+Corelation between variables1530is-0.183578428931654
+Corelation between variables1531is0.101400727600116
+Corelation between variables1532is-0.179906021637342
+Corelation between variables1533is0.241701542310068
+Corelation between variables1616is1
+Corelation between variables1617is-0.00788875375706193
+Corelation between variables1618is0.684799508003447
+Corelation between variables1619is0.0356114772600005
+Corelation between variables1620is0.659814340070751
+Corelation between variables1621is0.230554765180783
+Corelation between variables1622is0.576915847152654
+Corelation between variables1623is0.0794483055448441
+Corelation between variables1624is0.554070506273878
+Corelation between variables1625is0.129544702528099
+Corelation between variables1626is0.427262687405681
+Corelation between variables1627is0.168507243856885
+Corelation between variables1628is0.404275754499099
+Corelation between variables1629is0.0746038622000308
+Corelation between variables1630is0.358691983030796
+Corelation between variables1631is0.0158875200388744
+Corelation between variables1632is0.360039275441182
+Corelation between variables1633is-0.0634293710381017
+Corelation between variables1717is1
+Corelation between variables1718is0.0222945628834679
+Corelation between variables1719is0.463448403326991
+Corelation between variables1720is-0.120251656606238
+Corelation between variables1721is0.356694414347623
+Corelation between variables1722is-0.199894101799433
+Corelation between variables1723is0.18437616713488
+Corelation between variables1724is-0.175656813397264
+Corelation between variables1725is0.415094275677763
+Corelation between variables1726is-0.199798778710044
+Corelation between variables1727is0.289871374670251
+Corelation between variables1728is-0.118047463610305
+Corelation between variables1729is0.0677115404023557
+Corelation between variables1730is-0.158095819977777
+Corelation between variables1731is0.256970349941881
+Corelation between variables1732is-0.0590759633893538
+Corelation between variables1733is0.0541129232931644
+Corelation between variables1818is1
+Corelation between variables1819is0.0431979257474888
+Corelation between variables1820is0.659808505603686
+Corelation between variables1821is0.13703999273436
+Corelation between variables1822is0.556622011433588
+Corelation between variables1823is0.0882681687776906
+Corelation between variables1824is0.549836788729593
+Corelation between variables1825is0.173517031407571
+Corelation between variables1826is0.42469175476835
+Corelation between variables1827is0.20567298499823
+Corelation between variables1828is0.473186863672634
+Corelation between variables1829is0.0855794953681273
+Corelation between variables1830is0.418579942043817
+Corelation between variables1831is0.12471265345628
+Corelation between variables1832is0.446093426097699
+Corelation between variables1833is0.00145821253623824
+Corelation between variables1919is1
+Corelation between variables1920is-0.0586348227182401
+Corelation between variables1921is0.536966478976305
+Corelation between variables1922is-0.118454944851218
+Corelation between variables1923is0.27201641338066
+Corelation between variables1924is-0.200276353301725
+Corelation between variables1925is0.397429038167702
+Corelation between variables1926is-0.165945342015604
+Corelation between variables1927is0.272236253973342
+Corelation between variables1928is-0.213057160126967
+Corelation between variables1929is0.396780886340244
+Corelation between variables1930is-0.305048935478224
+Corelation between variables1931is0.125374205869784
+Corelation between variables1932is-0.107815578188842
+Corelation between variables1933is0.188939548158109
+Corelation between variables2020is1
+Corelation between variables2021is-0.0259729394067919
+Corelation between variables2022is0.631976408641857
+Corelation between variables2023is-0.0210067286566252
+Corelation between variables2024is0.553703603366903
+Corelation between variables2025is0.160226775199739
+Corelation between variables2026is0.398950920363655
+Corelation between variables2027is0.0734126267002213
+Corelation between variables2028is0.479619324756359
+Corelation between variables2029is0.071592116475265
+Corelation between variables2030is0.511278258440514
+Corelation between variables2031is0.121922512352393
+Corelation between variables2032is0.61661987693501
+Corelation between variables2033is-0.00259573696681359
+Corelation between variables2121is1
+Corelation between variables2122is0.162492584722323
+Corelation between variables2123is0.441735119499518
+Corelation between variables2124is-0.078713550774229
+Corelation between variables2125is0.396342159260427
+Corelation between variables2126is-0.0312805359817927
+Corelation between variables2127is0.407092558610111
+Corelation between variables2128is-0.0866139345149529
+Corelation between variables2129is0.323711769582521
+Corelation between variables2130is-0.0757135289397779
+Corelation between variables2131is0.207718313723097
+Corelation between variables2132is-0.0904167110767869
+Corelation between variables2133is0.132847939425887
+Corelation between variables2222is1
+Corelation between variables2223is-0.0262673182067583
+Corelation between variables2224is0.533583428211782
+Corelation between variables2225is0.0518018918356869
+Corelation between variables2226is0.569176320442583
+Corelation between variables2227is0.207700421102677
+Corelation between variables2228is0.540442527493593
+Corelation between variables2229is0.165890428478869
+Corelation between variables2230is0.538972866321203
+Corelation between variables2231is0.160531379771894
+Corelation between variables2232is0.503426240044599
+Corelation between variables2233is0.0492836054485917
+Corelation between variables2323is1
+Corelation between variables2324is-0.0801082280030902
+Corelation between variables2325is0.352872088152336
+Corelation between variables2326is-0.0366820669812883
+Corelation between variables2327is0.376951468830078
+Corelation between variables2328is-0.167936708954748
+Corelation between variables2329is0.364626216773515
+Corelation between variables2330is-0.12782177892834
+Corelation between variables2331is0.0842906831387203
+Corelation between variables2332is-0.211597448744338
+Corelation between variables2333is0.0946850849516854
+Corelation between variables2424is1
+Corelation between variables2425is-0.0770063647013749
+Corelation between variables2426is0.503525718438578
+Corelation between variables2427is0.176257231399504
+Corelation between variables2428is0.650908091080124
+Corelation between variables2429is0.0136391362204984
+Corelation between variables2430is0.516121309640741
+Corelation between variables2431is0.134477870665585
+Corelation between variables2432is0.46069152845877
+Corelation between variables2433is0.111085846010108
+Corelation between variables2525is1
+Corelation between variables2526is-0.0113136532340053
+Corelation between variables2527is0.43242632383436
+Corelation between variables2528is-0.113498500243343
+Corelation between variables2529is0.281074711482127
+Corelation between variables2530is-0.162707465583728
+Corelation between variables2531is0.340691703987542
+Corelation between variables2532is-0.0859659820149912
+Corelation between variables2533is0.221629592079698
+Corelation between variables2626is1
+Corelation between variables2627is0.0582534110296653
+Corelation between variables2628is0.5090695257167
+Corelation between variables2629is0.163412356920261
+Corelation between variables2630is0.376400126143414
+Corelation between variables2631is0.160318003655534
+Corelation between variables2632is0.469325662048221
+Corelation between variables2633is0.0829687337225433
+Corelation between variables2727is1
+Corelation between variables2728is0.042001988484714
+Corelation between variables2729is0.385474736847469
+Corelation between variables2730is-0.00813569614476782
+Corelation between variables2731is0.500801464259019
+Corelation between variables2732is-0.124825670824891
+Corelation between variables2733is0.376771592172622
+Corelation between variables2828is1
+Corelation between variables2829is-0.0109998894266986
+Corelation between variables2830is0.553855142584711
+Corelation between variables2831is0.0559972463765145
+Corelation between variables2832is0.579684011110702
+Corelation between variables2833is0.0825042462928706
+Corelation between variables2929is1
+Corelation between variables2930is-0.16358648771707
+Corelation between variables2931is0.297084527142404
+Corelation between variables2932is-0.180565601514358
+Corelation between variables2933is0.391270852721472
+Corelation between variables3030is1
+Corelation between variables3031is-0.0288772522631885
+Corelation between variables3032is0.692407758428028
+Corelation between variables3033is-0.0375793611673769
+Corelation between variables3131is1
+Corelation between variables3132is-0.0129983835192684
+Corelation between variables3133is0.514992483978857
+Corelation between variables3232is1
+Corelation between variables3233is-0.131839780898175
+Corelation between variables3333is1
+Corelation between variables1class labelis0.465613556041001
+Corelation between variables2class labelis0.519144727558641
+Corelation between variables3class labelis0.125884413076588
+Corelation between variables4class labelis0.51647666329288
+Corelation between variables5class labelis0.149098687517907
+Corelation between variables6class labelis0.45042860633014
+Corelation between variables7class labelis0.207544373595083
+Corelation between variables8class labelis0.294852369013884
+Corelation between variables9class labelis0.120633562716876
+Corelation between variables10class labelis0.167907581160036
+Corelation between variables11class labelis0.159940154061224
+Corelation between variables12class labelis0.181681681467058
+Corelation between variables13class labelis0.197040860044688
+Corelation between variables14class labelis0.207200956732819
+Corelation between variables15class labelis0.148774867670187
+Corelation between variables16class labelis0.0870597993986271
+Corelation between variables17class labelis0.119345916357465
+Corelation between variables18class labelis0.117435335633883
+Corelation between variables19class labelis0.0356201756902509
+Corelation between variables20class labelis0.219582880100976
+Corelation between variables21class labelis-0.116384772575853
+Corelation between variables22class labelis0.204360931527098
+Corelation between variables23class labelis0.00619319291906943
+Corelation between variables24class labelis0.188184587038281
+Corelation between variables25class labelis0.00154130769503059
+Corelation between variables26class labelis-0.111107091698377
+Corelation between variables27class labelis0.0427561227635802
+Corelation between variables28class labelis0.250036218112129
+Corelation between variables29class labelis-0.00394159606665706
+Corelation between variables30class labelis0.294417178423806
+Corelation between variables31class labelis-0.0360039171968902
+Corelation between variables32class labelis0.261157146560454
+Corelation between variables33class labelis-0.0641680202021681
