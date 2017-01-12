@@ -20,3 +20,5 @@ Mini Projects:
 Instead of using the ID3 algorithm to choose which attribute to select for splitting the data at each node, write a method that randomly picks attributes for each node. 
 Construct a new tree using random selection of attributes and compare the performance (in terms of accuracy) of the tree constructed using this approach to the one constructed 
 using ID3. You need to compare the trees without pruning.
+
+6) Extracting and Analyzing Social Media Data using Facebook and Twitter.
