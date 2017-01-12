@@ -1,0 +1,21 @@
+install.packages("randomForest")
+library("randomForest")
+train <- read.csv("E:/Ranjani/Docs/sem5/PROJECT/OurProject/trainingFeatures.csv",header=FALSE)
+test <- read.csv("E:/Ranjani/Docs/sem5/PROJECT/OurProject/testFeatures.csv",header=FALSE)
+colnames(train)<-c("X1","X2","X3","X4","Relevance")
+test$Relevance <- 0.0
+colnames(test)<-c("X1","X2","X3","X4","Relevance")
+summary(train)
+summary(test)
+bag.hdepot = randomForest(Relevance~., data= train, mtry=4, importance=TRUE)
+prediction.test = predict(bag.hdepot,test)
+head(prediction.test,10)
+write(prediction.test,file="Routput.txt", sep= "\n")
+#cross validation
+train1=sample(1:nrow(train),nrow(train)*0.8)
+bag.hdepot.cv = randomForest(Relevance~., data= train,subset=train1,mtry=4, importance=TRUE)
+prediction.cv = predict(bag.hdepot.cv,newdata = train[-train1,])
+relevance.cv = train[-train1,"Relevance"]
+plot(prediction.cv,relevance.cv)
+mean((prediction.cv-relevance.cv)^2)
+abline(0,1)

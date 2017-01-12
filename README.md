@@ -1,5 +1,8 @@
 # MachineLearning
 
+Project: Product search relevance score prediction using Home Depot Dataset
+
+Mini Projects:
 1) Implementation of ID3 algorithm
 
 2) Analysis of different Classifiers in ML:
@@ -7,7 +10,7 @@
 • Perceptron (Single Linear Classifier)
 • Neural Net
 • Support Vector Machines
-• Naïve Bayes Classifiers
+• Naive Bayes Classifiers
 
 3) Implementation of Naive Bayes learning algorithm for binary classification tasks
 
